@@ -22,6 +22,7 @@ Be sure to check out my [website](https://oltimaloku.github.io/portfolio/) for m
 ### I'm currently working on
 
 - [GeoReal!](https://github.com/michaelfromyeg/georeal) A cross-platform mobile application that allows users to create and share location-based picture galleries.
+- [CosmicGateway](https://github.com/ubclaunchpad/CosmicGateway) which is [UBC Launch Pad's](https://www.ubclaunchpad.com) client facing website, internal portal, and docs/resources. 
 
 ### I'm currently learning 
 
