@@ -30,6 +30,6 @@ Be sure to check out my [website](https://oltimaloku.github.io/portfolio/) for m
 
 ### What I've done
 
-- Interned as a Software Engineer at Edee Care, developing their first production-ready mobile app, IDEA!
+- Interned as a Software Engineer at Edee Care, developing their first production-ready mobile app, [IDEA!](https://oltimaloku.github.io/portfolio/projects/idea)
 - Interned as a Product Manager at Edee Care, leading the design and planning of our mobile application.
 - Worked as a Software Engineer at UBC Launchpad, UBC's largest software engineering club.
